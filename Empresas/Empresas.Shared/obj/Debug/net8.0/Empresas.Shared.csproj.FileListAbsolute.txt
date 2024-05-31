@@ -1,0 +1,12 @@
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/bin/Debug/net8.0/Empresas.Shared.deps.json
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/bin/Debug/net8.0/Empresas.Shared.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/bin/Debug/net8.0/Empresas.Shared.pdb
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.csproj.AssemblyReference.cache
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.AssemblyInfoInputs.cache
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.AssemblyInfo.cs
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.csproj.CoreCompileInputs.cache
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/refint/Empresas.Shared.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/Empresas.Shared.pdb
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Shared/obj/Debug/net8.0/ref/Empresas.Shared.dll

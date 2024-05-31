@@ -1,0 +1,11 @@
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/bin/Debug/net8.0/Empresas.Domain.deps.json
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/bin/Debug/net8.0/Empresas.Domain.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/bin/Debug/net8.0/Empresas.Domain.pdb
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.AssemblyInfoInputs.cache
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.AssemblyInfo.cs
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.csproj.CoreCompileInputs.cache
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/refint/Empresas.Domain.dll
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/Empresas.Domain.pdb
+/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/Debug/net8.0/ref/Empresas.Domain.dll

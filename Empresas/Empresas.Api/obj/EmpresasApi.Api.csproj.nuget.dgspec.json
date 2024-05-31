@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Api/Empresas.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Api/Empresas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Api/Empresas.Api.csproj",
+        "projectName": "Empresas.Api",
+        "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Api/Empresas.Api.csproj",
+        "packagesPath": "/Users/gmorbi/.nuget/packages/",
+        "outputPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gmorbi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://giovane.morbi:jugmryo7mqhy7q6alphqnrqxymajpuw6scdb27n4ndxmvrsw3w3a@pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {},
+          "https://nuget.pkg.github.com/PREPARATODOS/index.json": {},
+          "https://pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/Empresas.Application.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/Empresas.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/Empresas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/Empresas.Application.csproj",
+        "projectName": "Empresas.Application",
+        "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/Empresas.Application.csproj",
+        "packagesPath": "/Users/gmorbi/.nuget/packages/",
+        "outputPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gmorbi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://giovane.morbi:jugmryo7mqhy7q6alphqnrqxymajpuw6scdb27n4ndxmvrsw3w3a@pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {},
+          "https://nuget.pkg.github.com/PREPARATODOS/index.json": {},
+          "https://pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj"
+              },
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/Empresas.Services.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/Empresas.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj",
+        "projectName": "Empresas.Domain",
+        "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj",
+        "packagesPath": "/Users/gmorbi/.nuget/packages/",
+        "outputPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gmorbi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://giovane.morbi:jugmryo7mqhy7q6alphqnrqxymajpuw6scdb27n4ndxmvrsw3w3a@pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {},
+          "https://nuget.pkg.github.com/PREPARATODOS/index.json": {},
+          "https://pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/Empresas.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/Empresas.Infra.csproj",
+        "projectName": "Empresas.Infra",
+        "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/Empresas.Infra.csproj",
+        "packagesPath": "/Users/gmorbi/.nuget/packages/",
+        "outputPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gmorbi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://giovane.morbi:jugmryo7mqhy7q6alphqnrqxymajpuw6scdb27n4ndxmvrsw3w3a@pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {},
+          "https://nuget.pkg.github.com/PREPARATODOS/index.json": {},
+          "https://pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/Empresas.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/Empresas.Services.csproj",
+        "projectName": "Empresas.Services",
+        "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/Empresas.Services.csproj",
+        "packagesPath": "/Users/gmorbi/.nuget/packages/",
+        "outputPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gmorbi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://giovane.morbi:jugmryo7mqhy7q6alphqnrqxymajpuw6scdb27n4ndxmvrsw3w3a@pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {},
+          "https://nuget.pkg.github.com/PREPARATODOS/index.json": {},
+          "https://pkgs.dev.azure.com/portaldabet/_packaging/portaldabet/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Domain/Empresas.Domain.csproj"
+              },
+              "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/Empresas.Infra.csproj": {
+                "projectPath": "/Users/gmorbi/Projects/TesteOpea/Empresas/Empresas.Infra/Empresas.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

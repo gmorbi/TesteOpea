@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Empresas.Api/1.0.0": {
+        "dependencies": {
+          "Empresas.Application": "1.0.0"
+        },
+        "runtime": {
+          "Empresas.Api.dll": {}
+        }
+      },
+      "Empresas.Application/1.0.0": {
+        "dependencies": {
+          "Empresas.Domain": "1.0.0",
+          "Empresas.Services": "1.0.0"
+        },
+        "runtime": {
+          "Empresas.Application.dll": {}
+        }
+      },
+      "Empresas.Domain/1.0.0": {
+        "runtime": {
+          "Empresas.Domain.dll": {}
+        }
+      },
+      "Empresas.Infra/1.0.0": {
+        "dependencies": {
+          "Empresas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Empresas.Infra.dll": {}
+        }
+      },
+      "Empresas.Services/1.0.0": {
+        "dependencies": {
+          "Empresas.Domain": "1.0.0",
+          "Empresas.Infra": "1.0.0"
+        },
+        "runtime": {
+          "Empresas.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Empresas.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresas.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empresas.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
